@@ -1,5 +1,5 @@
 import gym
-from policynet import PolicyGradient
+from policynet_v2 import PolicyGradient
 import matplotlib.pyplot as plt
 import time
 
